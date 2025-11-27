@@ -6,7 +6,7 @@ This lab introduces **ARM Cortex-M0+ assembly language programming** on the TI M
 
 ## Author
 
-- Anmol Dubey (EID: AD56328)
+- Anmol Dubey 
 
 ## Objective
 

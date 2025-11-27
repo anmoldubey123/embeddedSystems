@@ -1,4 +1,4 @@
-# Assembly Programming on Cortex-M0+ - Lab 1
+# Assembly Programming on Cortex-M0+ 
 
 ## Overview
 

@@ -28,7 +28,7 @@ This repository contains a comprehensive collection of embedded systems laborato
 
 | Lab | Title | Key Concepts |
 |-----|-------|--------------|
-| 1 | [Assembly Programming](./assemblyLinkedListSearch) | ARM assembly, linked data structures, AAPCS compliance |
+| 1 | [Assembly Programming](./assemblyProgrammingCortexM0+) | ARM assembly, linked data structures, AAPCS compliance |
 | 2 | [LED & Switch Control](./hardwareInterfacingLED+SwitchControl) | GPIO, software PWM, timing loops |
 | 3 | [Minimally Intrusive Debugging](./minimallyIntrusiveDebugging3) | Hardware timers, data logging, period measurement |
 | 4 | [Traffic Light Controller](./trafficLightControllerFSM) | Finite state machines, sensor input, Moore FSM |

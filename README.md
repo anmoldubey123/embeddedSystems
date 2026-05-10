@@ -32,11 +32,11 @@ This repository contains a comprehensive collection of embedded systems laborato
 | 2 | [LED & Switch Control](./hardwareInterfacingLED+SwitchControl) | GPIO, software PWM, timing loops |
 | 3 | [Minimally Intrusive Debugging](./minimallyIntrusiveDebugging3) | Hardware timers, data logging, period measurement |
 | 4 | [Traffic Light Controller](./trafficLightControllerFSM) | Finite state machines, sensor input, Moore FSM |
-| 5 | [Digital Piano](./soundGenerationDAC) | DAC output, audio synthesis, interrupt-driven waveforms |
+| 5 | [Digital Piano](./digitalPianoUsingDAC) | DAC output, audio synthesis, interrupt-driven waveforms |
 | 6 | [LCD Device Driver](./lcdDeviceDriver) | SPI protocol, graphics rendering, device drivers |
 | 7 | [Analog Position Meter](./analogPositionMeter) | ADC sampling, fixed-point math, calibration |
 | 8 | [Distributed Data Acquisition](./distributedDataAcquisitionSystem) | UART communication, FIFO buffers, multi-board systems |
-| 9 | [Geometry Dash Game](./geometryDashGame) | Real-time systems, game physics, audio integration |
+| 9 | [Geometry Dash Game](./embeddedGameDesignGeometryDash) | Real-time systems, game physics, audio integration |
 
 ## Laboratory Details
 

@@ -349,7 +349,7 @@ Upon completing this laboratory sequence, students will be able to:
 
 ## Acknowledgments
 
-- **Course Instructor:** Professor Jonathan Valvano
+- **Course Instructor:** Professor Lillian Chin
 - **Institution:** University of Texas at Austin, Department of Electrical and Computer Engineering
 - **Course:** ECE319K - Introduction to Embedded Systems
 
